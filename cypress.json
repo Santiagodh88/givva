@@ -1,0 +1,15 @@
+{
+    "chromeWebSecurity": false,
+    "baseUrl": "https://givingassistant.org",
+    "blacklistHosts": ["https://widget.intercom.io/",
+        "https://googleads.g.doubleclick.net",
+        "https://www.google.com/",
+        "wss://nexus-websocket-a.intercom.io/",
+        "https://api.givingassistant.org/",
+        "*static.adzerk.net",
+        "*connect.facebook.net",
+        "https://quantcast.mgr.consensu.org",
+        "https://cdn.givingassistant.org",
+        "https://cdn.givingassistant.org/fontawesome-webfont.woff?v=4.7.0"
+    ]
+}
